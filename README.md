@@ -18,3 +18,7 @@ The fitting without dust, which shows degeneracy in abundance and H2 column dens
 
 Add two components dust. Cold dust temperature and mass are according to cold and dense gas component. Warm dust temperature is an independent variable， and
 dust mass is according to the sum of two warm gas components.
+
+=== SLED_fitting_NGC6240_3comp_allmol_220410.ipynb ===
+
+Add 13CO, CS SLEDs into fitting, using cold component dust.
